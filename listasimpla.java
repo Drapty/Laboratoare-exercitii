@@ -1,0 +1,5 @@
+interface listasimpla{
+
+inserare();
+
+}

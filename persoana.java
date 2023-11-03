@@ -1,0 +1,6 @@
+interface persoana
+{
+
+   void afisare();
+    
+}
